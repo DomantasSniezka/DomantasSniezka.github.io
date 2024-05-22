@@ -25,4 +25,9 @@ I've had numerous jobs over the years. My professional profile can be seen below
 
 [Linkedin](www.linkedin.com/in/domantas-sniezka-553167142)
 
+### Technical Projects
+List of all technical projects I've worked on.
+
+[Github](https://github.com/DomantasSniezka)
+
 
