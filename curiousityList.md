@@ -12,7 +12,7 @@ What is the right kind of exercise?
 What does optimal health look like?
 What does my current health look like?
 
-Learn more [Foundations Projects]()
+Learn more [Foundations Project]()
 
 
 ### Explorations
@@ -21,5 +21,7 @@ Travel to the places in a sustainable manner.
 
 ### Express
 Podcast - Chasing Passion.
+
 Podcast - Unveiling Wholeness.
-...
+
+Writings - @domsniezka.substack
